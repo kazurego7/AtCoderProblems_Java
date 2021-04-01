@@ -6,17 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Debug (Launch) - Current File",
+            "name": "Launch App",
             "request": "launch",
-            "mainClass": "${file}",
-            "console": "integratedTerminal"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch)-Main<AtCoder>",
-            "request": "launch",
-            "mainClass": "app.Main",
-            "projectName": "AtCoder"
+            "mainClass": "App"
         }
     ]
 }

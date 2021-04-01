@@ -1,8 +1,6 @@
-package app;
-
 import java.util.Scanner;
 
-public class Main {
+public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         long a = sc.nextLong();
